@@ -1,3 +1,4 @@
+#removeing output log from git commit
 LogOutput.log
 
 ## Ignore Visual Studio temporary files, build results, and
