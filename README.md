@@ -1,5 +1,5 @@
-# sma-betterloot-staging
-staging branch for sma valheim
+# The Vikings Asylum
+staging branch for The Vikings Asylum on Valheim
 
 
 Configuration directory for the SMA/valhiem docker server, complete with plugins and modded config files. 
