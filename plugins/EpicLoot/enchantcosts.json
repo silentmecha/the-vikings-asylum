@@ -309,11 +309,11 @@
     }
   ],
   "ReAugmentCosts" : [
-    { "Item": "Coins", "Amount": 5000 },
-    { "Item": "Coins", "Amount": 10000 },
-    { "Item": "Coins", "Amount": 15000 },
-    { "Item": "Coins", "Amount": 20000 },
-    { "Item": "Coins", "Amount": 25000 },
-    { "Item": "Coins", "Amount": 30000 }
+    { "Item": "Coins", "Amount": 50 },
+    { "Item": "Coins", "Amount": 100 },
+    { "Item": "Coins", "Amount": 150 },
+    { "Item": "Coins", "Amount": 200 },
+    { "Item": "Coins", "Amount": 250 },
+    { "Item": "Coins", "Amount": 300 }
   ] 
 }
