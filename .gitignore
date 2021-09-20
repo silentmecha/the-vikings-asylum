@@ -1,13 +1,35 @@
-# Ignore All files inside root folder
-/*
-# Ignore All folders inside root folder
-/*/
-# Do not ignore the following files
-!/README.md
-!/.gitignore
-# Do not ignore the following folders and all thier contents
-!/cache/**
-!/config/**
-!/core/**
-!/patchers/**
-!/plugins/**
+# Ignore Everything
+*
+# Except .gitignore
+!.gitignore
+
+# add folder to whitelist
+!cache/
+# then everything in subfolder
+!cache/*
+
+# add folder to whitelist
+!config/
+# then everything in subfolder
+!config/*
+
+# add folder to whitelist
+!core/
+# then everything in subfolder
+!core/*
+
+# add folder to whitelist
+!patchers/
+# then everything in subfolder
+!patchers/*
+
+# add folder to whitelist
+!plugins/
+# then everything in subfolder
+!plugins/*
+
+# then subfolder after // aparently not needed ?
+#!plugins/*/
+
+#then everything in subfolder after
+!plugins/*/*
