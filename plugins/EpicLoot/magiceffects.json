@@ -47,8 +47,8 @@
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
         "Rare" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
-        "Epic" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 15, "MaxValue" : 25, "Increment" : 1 }
+        "Epic" : { "MinValue" : 15, "MaxValue" : 25, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 25, "MaxValue" : 35, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Comment" : "Can't be rolled. Too powerful?"
@@ -535,8 +535,8 @@
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 1, "MaxValue" : 4, "Increment" : 1 },
         "Rare" : { "MinValue" : 3, "MaxValue" : 8, "Increment" : 1 },
-        "Epic" : { "MinValue" : 7, "MaxValue" : 15, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 }
+        "Epic" : { "MinValue" : 17, "MaxValue" : 25, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
@@ -612,8 +612,8 @@
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 1, "MaxValue" : 4, "Increment" : 1 },
         "Rare" : { "MinValue" : 3, "MaxValue" : 8, "Increment" : 1 },
-        "Epic" : { "MinValue" : 7, "MaxValue" : 15, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 }
+        "Epic" : { "MinValue" : 17, "MaxValue" : 25, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
@@ -2031,8 +2031,8 @@
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 5, "MaxValue" : 10, "Increment" : 1 },
         "Rare" : { "MinValue" : 8, "MaxValue" : 13, "Increment" : 1 },
-        "Epic" : { "MinValue" : 11, "MaxValue" : 16, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 14, "MaxValue" : 19, "Increment" : 1 }
+        "Epic" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 20, "MaxValue" : 30, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [ "$mod_epicloot_me_reflectdamage_prefix1" ],
